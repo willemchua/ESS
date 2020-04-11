@@ -1,0 +1,2 @@
+This is a project that I made for the completion of my undergraduate study. This is written under the supervision of a team I'm in during my internship period, and the code is partially used to fulfill a client's requirement as well.
+Although it was supervised, since this was written by an undergraduate intern without any previous experience in Angular, Typescript, and Spring Boot framework, a lot of the codes might still be messy.
